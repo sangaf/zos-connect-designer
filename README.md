@@ -1,4 +1,4 @@
-# sample-cics-api
+# Practice code for CICS api
 A sample API project showing how to connect to CICS TS
 
 ## Structure
